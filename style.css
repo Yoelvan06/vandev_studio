@@ -47,8 +47,13 @@ summary{
 .topnav {
   overflow: hidden;
   background-color: #333;
-  position:fixed;
   width: 100%;
+}
+.topnavn{
+  overflow: hidden;
+  background-color: #333;
+  width: 100%;
+  position: fixed;
 }
 
 /* Style the topnav links */
